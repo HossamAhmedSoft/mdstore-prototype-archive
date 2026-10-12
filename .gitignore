@@ -1,0 +1,12 @@
+# Web & PWA .gitignore
+*.exe
+*.dll
+*.winmd
+*.webm
+*.zip
+*.rar
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
